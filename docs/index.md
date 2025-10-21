@@ -1,17 +1,19 @@
-# Welcome to MkDocs
+<!-- Metadados para SEO e redes sociais -->
+<link rel="icon" type="image/svg+xml" href="/icon.svg" />
+<meta name="description" content="TechNotes — anotações e insights sobre tecnologia e desenvolvimento">
+<meta property="og:title" content="TechNotes">
+<meta property="og:description" content="Anotações e insights sobre tecnologia e desenvolvimento.">
+<meta property="og:image" content="/thumbnail.png">
+<meta property="og:type" content="website">
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# 🧠 TechNotes
 
-## Commands
+Bem-vindo ao **TechNotes** — um espaço para guardar anotações, ideias e insights sobre **tecnologia, desenvolvimento e boas práticas** no dia a dia de um dev.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Aqui você encontrará conteúdos sobre:
 
-## Project layout
+- 💻 Desenvolvimento backend (Java, Spring Boot, boas práticas)
+- ⚙️ Arquitetura de software e microsserviços
+- 🧰 Ferramentas, dicas e referências úteis
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+---

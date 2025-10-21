@@ -4,6 +4,7 @@ site_author: Matheus Bongiorno
 theme:
   name: material
   language: pt
+  custom_dir: overrides
   favicon: images/icon.png
   logo: images/icon.png
   palette:
