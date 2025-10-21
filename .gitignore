@@ -1,0 +1,31 @@
+# Arquivos de configuração do MkDocs
+mkdocs.yml
+site/
+
+# Diretórios e arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
+
+# Arquivos de editor
+.vscode/
+.idea/
+*.swp
+
+# Dependências de pacotes (caso utilize alguma ferramenta de build)
+node_modules/
+bower_components/
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.*.local
+
+# Arquivos de build
+build/
+dist/
+
+# Arquivos de backup
+*~
