@@ -1,0 +1,37 @@
+site_name: Matheus Bongiorno
+site_author: Matheus Bongiorno
+
+theme:
+  name: material
+  language: pt
+  favicon: images/icon.png
+  logo: images/icon.png
+  palette:
+    # Modo claro
+    - scheme: default
+      primary: orange
+      accent: deep-orange
+    # Modo escuro
+    - scheme: slate
+      primary: orange
+      accent: deep-orange
+  features:
+    - navigation.instant       # carregamento instantâneo
+    - navigation.tabs          # abas no topo
+    - navigation.top           # botão "voltar ao topo"
+    - search.highlight         # destaca resultados da busca
+    - search.suggest           # sugere termos durante a busca
+    - content.code.copy        # botão de copiar código
+    - toc.integrate     # integra o índice lateral ao conteúd
+
+markdown_extensions:
+  - codehilite
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+
+extra_css:
+  - styles/extra.css
+
+plugins:
+  - search
