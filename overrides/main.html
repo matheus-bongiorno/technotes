@@ -1,10 +1,24 @@
 {% extends "base.html" %}
 
-{% block extrahead %}
-  <link rel="icon" type="image/png" href="{{ base_url }}/images/icon.png" />
+{% block htmlhead %}
+  {{ super() }}
+  <!-- SEO básico -->
   <meta name="description" content="TechNotes — anotações e insights sobre tecnologia e desenvolvimento">
-  <meta property="og:title" content="TechNotes">
+  <meta name="author" content="Matheus Bongiorno">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="TechNotes — por Matheus Bongiorno">
   <meta property="og:description" content="Anotações e insights sobre tecnologia e desenvolvimento.">
-  <meta property="og:image" content="{{ base_url }}/images/thumbnail.png">
+  <meta property="og:image" content="https://matheus-bongiorno.github.io/technotes/images/icon.png">
+  <meta property="og:url" content="https://matheus-bongiorno.github.io/technotes/">
   <meta property="og:type" content="website">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="TechNotes — por Matheus Bongiorno">
+  <meta name="twitter:description" content="Anotações e insights sobre tecnologia e desenvolvimento.">
+  <meta name="twitter:image" content="https://matheus-bongiorno.github.io/technotes/images/icon.png">
+
+  <!-- Ícone -->
+  <link rel="icon" type="image/png" href="{{ base_url }}/images/icon.png">
 {% endblock %}
