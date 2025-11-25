@@ -1,5 +1,5 @@
 ## 👋 Olá! 
-Sou **Matheus Bongiorno**, Desenvolvedor backend e entusiata por tecnologia.
+Sou **Matheus Bongiorno**, Desenvolvedor backend e entusiasta por tecnologia.
 Atualmente, trabalho com ecossistema **Java**, utilizando **Spring boot** em microsserviços.
 
 ---
@@ -19,7 +19,7 @@ Atualmente, trabalho com ecossistema **Java**, utilizando **Spring boot** em mic
 Aqui Compartilho:
 
 - Dicas práticas de programação
-- Soluções reais que enfrento no dia a dia
+- Soluções reais que enfrento no dia-a-dia
 - Boas práticas e padrões
 - Referências úteis
 - Estudos e anotações que podem ajudar outros devs também
@@ -31,6 +31,6 @@ Aqui Compartilho:
 ## 👨‍💻 Um pouco sobre mim
 - Movido por desafios técnicos
 - Curioso e sempre buscando entender como as coisas funcionam por baixo dos panos
-- Persistente, se algo quebra, eu vou até o fim para entender e solver 
+- Persistente, se algo quebra, eu vou até o fim para entender e resolver
 
 ---
