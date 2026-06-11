@@ -19,7 +19,7 @@ Atualmente, trabalho com ecossistema **Java**, utilizando **Spring boot** em mic
 Aqui Compartilho:
 
 - Dicas práticas de programação
-- Soluções reais que enfrento no dia-a-dia
+- Soluções reais que enfrento no dia a dia
 - Boas práticas e padrões
 - Referências úteis
 - Estudos e anotações que podem ajudar outros devs também

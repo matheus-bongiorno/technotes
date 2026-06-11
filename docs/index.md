@@ -8,7 +8,7 @@
 
 # 🧠 TechNotes
 
-Bem-vindo ao **TechNotes** — um espaço para guardar anotações, ideias e insights sobre **tecnologia, desenvolvimento e boas práticas** no dia-a-dia de um dev.
+Bem-vindo ao **TechNotes** — um espaço para guardar anotações, ideias e insights sobre **tecnologia, desenvolvimento e boas práticas** no dia a dia de um dev.
 
 Aqui você encontrará conteúdos sobre:
 
