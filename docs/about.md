@@ -13,8 +13,8 @@ Atualmente, trabalho com ecossistema **Java**, utilizando **Spring boot** em mic
 
 ---
 
-## 🧠 Por que criei o TecNotes?
-- O **TecNotes** surgiu com a intenção de ser um espaço para registrar tudo o que aprendo ao logo da minha jornada como desenvolvedor:
+## 🧠 Por que criei o TechNotes?
+- O **TechNotes** surgiu com a intenção de ser um espaço para registrar tudo o que aprendo ao logo da minha jornada como desenvolvedor:
 
 Aqui Compartilho:
 
